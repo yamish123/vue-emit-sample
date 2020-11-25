@@ -1,5 +1,9 @@
 # emit-sample
 
+## Reference
+
+https://qiita.com/yamish/items/446e6d8465f19d198268
+
 ## Project setup
 ```
 yarn install
